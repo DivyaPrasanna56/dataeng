@@ -1,0 +1,6 @@
+order_id,customer_id,email,amount,order_date
+2001,C201,alice@gmail.com,600,15-08-2026
+2002,C202,bob@gmail.com,750,16-08-2026
+2003,C203,wrong-email,-100,16-08-2026
+2004,C204,david@gmail.com,900,20-08-2026
+2005,C205,emma@gmail.com,500,15-08-2026

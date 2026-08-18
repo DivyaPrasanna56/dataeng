@@ -1,0 +1,6 @@
+order_id,customer_id,email,amount,order_date
+1001,C101,john@gmail.com,500,15-08-2026
+1002,C102,sarah@gmail.com,700,15-08-2026
+1003,,wrong-email,-500,16-08-2026
+1003,C103,test@gmail.com,500,16-08-2026
+1004,C104,mike@gmail.com,800,18-08-2026
